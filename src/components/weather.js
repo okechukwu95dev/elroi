@@ -67,7 +67,7 @@ async function weatherData(e){
     else{
         const data = await fetch
         
-        (`http://api.openweathermap.org/data/2.5/forecast?zip=${form.zipcode},us&appid=${APIKEY}`)
+        (`https://api.openweathermap.org/data/2.5/forecast?zip=${form.zipcode},us&appid=${APIKEY}`)
        
         .then(res => res.json())
         .then(data => data); 
