@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/elroiai/static/css/main.e2484e05.chunk.css",
+    "main.js": "/elroiai/static/js/main.1a6728a8.chunk.js",
+    "main.js.map": "/elroiai/static/js/main.1a6728a8.chunk.js.map",
+    "runtime-main.js": "/elroiai/static/js/runtime-main.c9a05b98.js",
+    "runtime-main.js.map": "/elroiai/static/js/runtime-main.c9a05b98.js.map",
+    "static/js/2.b39e3d25.chunk.js": "/elroiai/static/js/2.b39e3d25.chunk.js",
+    "static/js/2.b39e3d25.chunk.js.map": "/elroiai/static/js/2.b39e3d25.chunk.js.map",
+    "index.html": "/elroiai/index.html",
+    "static/css/main.e2484e05.chunk.css.map": "/elroiai/static/css/main.e2484e05.chunk.css.map",
+    "static/js/2.b39e3d25.chunk.js.LICENSE.txt": "/elroiai/static/js/2.b39e3d25.chunk.js.LICENSE.txt",
+    "static/media/logo.6535885e.png": "/elroiai/static/media/logo.6535885e.png",
+    "static/media/mostly-sunny.328f6894.svg": "/elroiai/static/media/mostly-sunny.328f6894.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9a05b98.js",
+    "static/js/2.b39e3d25.chunk.js",
+    "static/css/main.e2484e05.chunk.css",
+    "static/js/main.1a6728a8.chunk.js"
+  ]
+}
