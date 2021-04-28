@@ -3,12 +3,14 @@
       width: 100% ;
       display: grid;
       grid-template-rows : 10% 90%;
-      overflow: hidden;
+      /* grid-row-gap: 10%; */
+      /* overflow: hidden; */
   }
   .nav  {
     width : 100%;
     display: grid;
     grid-template-columns: 20% 80%; 
+    margin-bottom: 5%;
     /* background-color:rgb(2, 57, 88); */
     
   }
@@ -22,7 +24,7 @@
       color: white;
       font-weight: 600;
       font-family: 'Open Sans', sans-serif;
-      font-size: 130%;
+      /* font-size: 130%; */
       
       
 
@@ -53,7 +55,7 @@
     place-items: end ;
     /* background-color: pink; */
     display: grid;
-    grid-template-columns: 87% 13% ;
+    grid-template-columns: 60% 40% ;
   
     
   }
