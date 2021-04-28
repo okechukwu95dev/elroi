@@ -11,7 +11,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "^4.0.3"
   },
-  "homepage": "https://okechukwu95dev.github.io/elroi",
+  "homepage": "https://okechukwu95dev.github.io/Elroiweather",
   "scripts": {
     "predeploy" : "npm run build",
     "deploy" : "gh-pages -d build",
